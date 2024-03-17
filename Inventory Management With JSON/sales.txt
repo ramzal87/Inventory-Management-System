@@ -1,0 +1,5 @@
+maneesh,maneesh@gmail.com,78299290,1005,Kitkat,21,10,210,Sun Mar 17 20:13:26 2024
+kevin,kevin@gmail.com,98292992,1005,Kitkat,18,10,180,Sun Mar 17 20:15:40 2024
+jesline,jesline@gmail.com,77887383,1003,Cake,41,300,12300,Sun Mar 17 20:26:57 2024
+shyam,shyam@gmail.com,838832872,1002,Milky Bar,32,10,320,Sun Mar 17 20:28:49 2024
+swalih,swalih@gmail.com,35425252,1002,Milky Bar,4,10,40,Sun Mar 17 20:30:22 2024
